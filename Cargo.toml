@@ -1,5 +1,5 @@
 [package]
-name = "aws-rust-image-processing"
+name = "s3-photo-trigger"
 version = "0.1.0"
 edition = "2021"
 authors = ["Gabriel Alonso<gabriel.alonso2589@gmail.com>"]
